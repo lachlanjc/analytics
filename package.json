@@ -1,0 +1,13 @@
+{
+  "name": "lachlanjc-analytics",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "micro-analytics"
+  },
+  "author": "Lachlan Campbell",
+  "license": "MIT",
+  "dependencies": {
+    "micro-analytics-cli": "^3.1.0"
+  }
+}
